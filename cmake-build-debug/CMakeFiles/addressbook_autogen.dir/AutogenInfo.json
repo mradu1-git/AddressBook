@@ -582,6 +582,12 @@
 			"MU",
 			"EWIEGA46WW/moc_newaddresstab.cpp",
 			null
+		],
+		[
+			"/home/mradu1/Projects/QT Widgets/addressbook/tablemodel.h",
+			"MU",
+			"EWIEGA46WW/moc_tablemodel.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -661,6 +667,11 @@
 		],
 		[
 			"/home/mradu1/Projects/QT Widgets/addressbook/newaddresstab.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/mradu1/Projects/QT Widgets/addressbook/tablemodel.cpp",
 			"MU",
 			null
 		]

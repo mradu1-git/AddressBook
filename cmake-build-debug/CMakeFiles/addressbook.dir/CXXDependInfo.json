@@ -50,6 +50,11 @@
 		{
 			"language" : "CXX",
 			"source" : "/home/mradu1/Projects/QT Widgets/addressbook/newaddresstab.cpp"
+		},
+		"CMakeFiles/addressbook.dir/tablemodel.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/mradu1/Projects/QT Widgets/addressbook/tablemodel.cpp"
 		}
 	}
 }
