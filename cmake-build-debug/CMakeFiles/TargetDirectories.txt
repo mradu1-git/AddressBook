@@ -1,0 +1,5 @@
+/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook.dir
+/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook_autogen_timestamp_deps.dir
+/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook_autogen.dir
