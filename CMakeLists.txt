@@ -19,7 +19,9 @@ add_executable(addressbook main.cpp
         addresswidget.cpp
         addresswidget.h
         adddialog.cpp
-        adddialog.h)
+        adddialog.h
+        newaddresstab.cpp
+        newaddresstab.h)
 target_link_libraries(addressbook
         Qt::Core
         Qt::Gui

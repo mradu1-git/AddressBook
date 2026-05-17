@@ -7,7 +7,7 @@
 
 AddDialog::AddDialog(QWidget *parent) : QDialog(parent),
     nameText(new QLineEdit),
-    addressText(new QTextEdit)
+    addressText = new QTextEdit)
 {
     auto nameLabel = new QLabel(tr("name"));
     auto addressLabel = new QLabel(tr("Address"));
@@ -36,4 +36,20 @@ AddDialog::AddDialog(QWidget *parent) : QDialog(parent),
     connect(cancelButton, &QAbstractButton::clicked, this, &QDialog::reject);
 
     setWindowTitle(tr("Add a contact"));
+}
+
+QString AddDialog::name() const
+{
+    return nameText->text();
+}
+
+QString AddDialog::address() const
+{
+    return addressText->toPlainText();
+}
+void AddDialog::editAddress(const QString &name, const QString &address)
+{
+    nameText->setReadOnly(true);
+    nameText->setText(name);
+    addressText->setPlainText(address);
 }
