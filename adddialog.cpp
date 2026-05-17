@@ -24,4 +24,16 @@ AddDialog::AddDialog(QWidget *parent) : QDialog(parent),
 
     auto buttonLayout = new QHBoxLayout;
     buttonLayout->addWidget(okButton);
+    buttonLayout->addWidget(cancelButton);
+
+    gLayout->addLayout(buttonLayout, 2, 1, Qt::AlignRight);
+
+    auto mainLayout = new QVBoxLayout;
+    mainLayout->addLayout(gLayout);
+    setLayout(mainLayout);
+
+    connect(okButton, &QAbstractButton::clicked, this, &QDialog::accept);
+    connect(cancelButton, &QAbstractButton::clicked, this, &QDialog::reject);
+
+    setWindowTitle(tr("Add a contact"));
 }
