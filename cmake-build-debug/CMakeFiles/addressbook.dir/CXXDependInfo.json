@@ -31,11 +31,6 @@
 			"language" : "CXX",
 			"source" : "/home/mradu1/Projects/QT Widgets/addressbook/adddialog.cpp"
 		},
-		"CMakeFiles/addressbook.dir/addresswidget.cpp.o" : 
-		{
-			"language" : "CXX",
-			"source" : "/home/mradu1/Projects/QT Widgets/addressbook/addresswidget.cpp"
-		},
 		"CMakeFiles/addressbook.dir/main.cpp.o" : 
 		{
 			"language" : "CXX",
