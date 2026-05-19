@@ -164,7 +164,28 @@ build CMakeFiles/addressbook.dir/addresswidget.cpp.o: CXX_COMPILER__addressbook_
   TARGET_SUPPORT_DIR = CMakeFiles/addressbook.dir
   dyndep = CMakeFiles/addressbook.dir/CXX.dd
 
-build CMakeFiles/addressbook.dir/CXX.dd | CMakeFiles/addressbook.dir/CXXModules.json CMakeFiles/addressbook.dir/main.cpp.o.modmap CMakeFiles/addressbook.dir/adddialog.cpp.o.modmap CMakeFiles/addressbook.dir/newaddresstab.cpp.o.modmap CMakeFiles/addressbook.dir/tablemodel.cpp.o.modmap CMakeFiles/addressbook.dir/addresswidget.cpp.o.modmap: CXX_DYNDEP__addressbook_Debug CMakeFiles/addressbook.dir/main.cpp.o.ddi CMakeFiles/addressbook.dir/adddialog.cpp.o.ddi CMakeFiles/addressbook.dir/newaddresstab.cpp.o.ddi CMakeFiles/addressbook.dir/tablemodel.cpp.o.ddi CMakeFiles/addressbook.dir/addresswidget.cpp.o.ddi | /home/mradu1/Projects/QT$ Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook.dir/CXXDependInfo.json
+build CMakeFiles/addressbook.dir/mainwindow.cpp.o.ddi: CXX_SCAN__addressbook_Debug /home/mradu1/Projects/QT$ Widgets/addressbook/mainwindow.cpp || cmake_object_order_depends_target_addressbook
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/addressbook.dir/mainwindow.cpp.o.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles/addressbook.dir/mainwindow.cpp.o.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always -mno-direct-extern-access
+  INCLUDES = -isystem "/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/include" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets
+  OBJ_FILE = CMakeFiles/addressbook.dir/mainwindow.cpp.o
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles/addressbook.dir/mainwindow.cpp.o.ddi.i
+
+build CMakeFiles/addressbook.dir/mainwindow.cpp.o: CXX_COMPILER__addressbook_scanned_Debug /home/mradu1/Projects/QT$ Widgets/addressbook/mainwindow.cpp | CMakeFiles/addressbook.dir/mainwindow.cpp.o.modmap || cmake_object_order_depends_target_addressbook CMakeFiles/addressbook.dir/CXX.dd
+  CONFIG = Debug
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/addressbook.dir/mainwindow.cpp.o.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles/addressbook.dir/mainwindow.cpp.o.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always -mno-direct-extern-access
+  INCLUDES = -isystem "/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/include" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets
+  OBJECT_DIR = CMakeFiles/addressbook.dir
+  OBJECT_FILE_DIR = CMakeFiles/addressbook.dir
+  TARGET_SUPPORT_DIR = CMakeFiles/addressbook.dir
+  dyndep = CMakeFiles/addressbook.dir/CXX.dd
+
+build CMakeFiles/addressbook.dir/CXX.dd | CMakeFiles/addressbook.dir/CXXModules.json CMakeFiles/addressbook.dir/main.cpp.o.modmap CMakeFiles/addressbook.dir/adddialog.cpp.o.modmap CMakeFiles/addressbook.dir/newaddresstab.cpp.o.modmap CMakeFiles/addressbook.dir/tablemodel.cpp.o.modmap CMakeFiles/addressbook.dir/addresswidget.cpp.o.modmap CMakeFiles/addressbook.dir/mainwindow.cpp.o.modmap: CXX_DYNDEP__addressbook_Debug CMakeFiles/addressbook.dir/main.cpp.o.ddi CMakeFiles/addressbook.dir/adddialog.cpp.o.ddi CMakeFiles/addressbook.dir/newaddresstab.cpp.o.ddi CMakeFiles/addressbook.dir/tablemodel.cpp.o.ddi CMakeFiles/addressbook.dir/addresswidget.cpp.o.ddi CMakeFiles/addressbook.dir/mainwindow.cpp.o.ddi | /home/mradu1/Projects/QT$ Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -174,7 +195,7 @@ build CMakeFiles/addressbook.dir/CXX.dd | CMakeFiles/addressbook.dir/CXXModules.
 #############################################
 # Link the executable addressbook
 
-build addressbook: CXX_EXECUTABLE_LINKER__addressbook_Debug CMakeFiles/addressbook.dir/addressbook_autogen/mocs_compilation.cpp.o CMakeFiles/addressbook.dir/main.cpp.o CMakeFiles/addressbook.dir/adddialog.cpp.o CMakeFiles/addressbook.dir/newaddresstab.cpp.o CMakeFiles/addressbook.dir/tablemodel.cpp.o CMakeFiles/addressbook.dir/addresswidget.cpp.o | /usr/lib/libQt6Widgets.so.6.11.0 /usr/lib/libQt6Gui.so.6.11.0 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.11.0 || addressbook_autogen addressbook_autogen_timestamp_deps
+build addressbook: CXX_EXECUTABLE_LINKER__addressbook_Debug CMakeFiles/addressbook.dir/addressbook_autogen/mocs_compilation.cpp.o CMakeFiles/addressbook.dir/main.cpp.o CMakeFiles/addressbook.dir/adddialog.cpp.o CMakeFiles/addressbook.dir/newaddresstab.cpp.o CMakeFiles/addressbook.dir/tablemodel.cpp.o CMakeFiles/addressbook.dir/addresswidget.cpp.o CMakeFiles/addressbook.dir/mainwindow.cpp.o | /usr/lib/libQt6Widgets.so.6.11.0 /usr/lib/libQt6Gui.so.6.11.0 /usr/lib/libGLX.so /usr/lib/libOpenGL.so /usr/lib/libQt6Core.so.6.11.0 || addressbook_autogen addressbook_autogen_timestamp_deps
   CONFIG = Debug
   DEP_FILE = CMakeFiles/addressbook.dir/link.d
   FLAGS = -g

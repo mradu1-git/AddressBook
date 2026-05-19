@@ -41,6 +41,11 @@
 			"language" : "CXX",
 			"source" : "/home/mradu1/Projects/QT Widgets/addressbook/main.cpp"
 		},
+		"CMakeFiles/addressbook.dir/mainwindow.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/mradu1/Projects/QT Widgets/addressbook/mainwindow.cpp"
+		},
 		"CMakeFiles/addressbook.dir/newaddresstab.cpp.o" : 
 		{
 			"language" : "CXX",

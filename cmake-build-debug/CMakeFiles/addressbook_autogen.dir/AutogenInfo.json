@@ -572,6 +572,12 @@
 			null
 		],
 		[
+			"/home/mradu1/Projects/QT Widgets/addressbook/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
 			"/home/mradu1/Projects/QT Widgets/addressbook/newaddresstab.h",
 			"MU",
 			"EWIEGA46WW/moc_newaddresstab.cpp",
@@ -654,6 +660,11 @@
 			null
 		],
 		[ "/home/mradu1/Projects/QT Widgets/addressbook/main.cpp", "MU", null ],
+		[
+			"/home/mradu1/Projects/QT Widgets/addressbook/mainwindow.cpp",
+			"MU",
+			null
+		],
 		[
 			"/home/mradu1/Projects/QT Widgets/addressbook/newaddresstab.cpp",
 			"MU",

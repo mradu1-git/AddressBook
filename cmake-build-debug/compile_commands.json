@@ -34,5 +34,11 @@
   "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -isystem \"/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/include\" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -g -std=gnu++20 -fdiagnostics-color=always -mno-direct-extern-access -fmodules-ts -fmodule-mapper=CMakeFiles/addressbook.dir/addresswidget.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/addressbook.dir/addresswidget.cpp.o -c \"/home/mradu1/Projects/QT Widgets/addressbook/addresswidget.cpp\"",
   "file": "/home/mradu1/Projects/QT Widgets/addressbook/addresswidget.cpp",
   "output": "/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook.dir/addresswidget.cpp.o"
+},
+{
+  "directory": "/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -isystem \"/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/include\" -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtWidgets -g -std=gnu++20 -fdiagnostics-color=always -mno-direct-extern-access -fmodules-ts -fmodule-mapper=CMakeFiles/addressbook.dir/mainwindow.cpp.o.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles/addressbook.dir/mainwindow.cpp.o -c \"/home/mradu1/Projects/QT Widgets/addressbook/mainwindow.cpp\"",
+  "file": "/home/mradu1/Projects/QT Widgets/addressbook/mainwindow.cpp",
+  "output": "/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/CMakeFiles/addressbook.dir/mainwindow.cpp.o"
 }
 ]

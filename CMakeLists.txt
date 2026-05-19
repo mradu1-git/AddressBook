@@ -21,7 +21,9 @@ add_executable(addressbook main.cpp
         tablemodel.cpp
         tablemodel.h
         addresswidget.cpp
-        addresswidget.h)
+        addresswidget.h
+        mainwindow.cpp
+        mainwindow.h)
 target_link_libraries(addressbook
         Qt::Core
         Qt::Gui
