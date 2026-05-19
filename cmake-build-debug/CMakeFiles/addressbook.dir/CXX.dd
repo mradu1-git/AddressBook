@@ -1,0 +1,9 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/addressbook.dir/main.cpp.o: dyndep
+
+build CMakeFiles/addressbook.dir/adddialog.cpp.o: dyndep
+
+build CMakeFiles/addressbook.dir/newaddresstab.cpp.o: dyndep
+
+build CMakeFiles/addressbook.dir/tablemodel.cpp.o: dyndep
+

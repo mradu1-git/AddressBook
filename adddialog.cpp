@@ -7,7 +7,7 @@
 
 AddDialog::AddDialog(QWidget *parent) : QDialog(parent),
     nameText(new QLineEdit),
-    addressText = new QTextEdit)
+    addressText(new QTextEdit)
 {
     auto nameLabel = new QLabel(tr("name"));
     auto addressLabel = new QLabel(tr("Address"));

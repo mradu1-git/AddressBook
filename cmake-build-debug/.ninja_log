@@ -1,14 +1,23 @@
 # ninja log v7
-2	385	1779043521827474009	addressbook_autogen/timestamp	c536430776e860ac
-2	385	1779043521827474009	addressbook_autogen/mocs_compilation.cpp	c536430776e860ac
-2	385	1779043521827474009	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/timestamp	c536430776e860ac
-2	385	1779043521827474009	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/mocs_compilation.cpp	c536430776e860ac
-388	753	1779043521839197200	CMakeFiles/addressbook.dir/tablemodel.cpp.o.ddi	40a644e6b569e8fd
-388	906	1779043521838760971	CMakeFiles/addressbook.dir/adddialog.cpp.o.ddi	4ce8d952774c22cc
-388	911	1779043521838982307	CMakeFiles/addressbook.dir/newaddresstab.cpp.o.ddi	f8396539b43c702c
-2	323	1779043589937477087	build.ninja	e036d31e06db8182
-2	323	1779043589937477087	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/cmake_install.cmake	e036d31e06db8182
-6	305	1779043590275477102	addressbook_autogen/timestamp	c536430776e860ac
-6	305	1779043590275477102	addressbook_autogen/mocs_compilation.cpp	c536430776e860ac
-6	305	1779043590275477102	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/timestamp	c536430776e860ac
-6	305	1779043590275477102	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/mocs_compilation.cpp	c536430776e860ac
+6	25	1779089262929344050	addressbook_autogen/timestamp	c536430776e860ac
+6	25	1779089262929344050	addressbook_autogen/mocs_compilation.cpp	c536430776e860ac
+6	25	1779089262929344050	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/timestamp	c536430776e860ac
+6	25	1779089262929344050	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/addressbook_autogen/mocs_compilation.cpp	c536430776e860ac
+214	486	1779089008704947539	CMakeFiles/addressbook.dir/tablemodel.cpp.o.ddi	40a644e6b569e8fd
+25	527	1779089262948344050	CMakeFiles/addressbook.dir/adddialog.cpp.o.ddi	4ce8d952774c22cc
+319	864	1779089229521342540	CMakeFiles/addressbook.dir/newaddresstab.cpp.o.ddi	f8396539b43c702c
+4	382	1779089484378354057	build.ninja	e036d31e06db8182
+4	382	1779089484377354057	/home/mradu1/Projects/QT Widgets/addressbook/cmake-build-debug/cmake_install.cmake	e036d31e06db8182
+20	263	1779089184975340527	CMakeFiles/addressbook.dir/main.cpp.o.ddi	64142f99e7290546
+527	531	1779089263450344073	CMakeFiles/addressbook.dir/CXX.dd	b41a3e1e8fd8cfc3
+527	531	1779089263450344073	CMakeFiles/addressbook.dir/CXXModules.json	b41a3e1e8fd8cfc3
+527	531	1779089263450344073	CMakeFiles/addressbook.dir/main.cpp.o.modmap	b41a3e1e8fd8cfc3
+527	531	1779089263450344073	CMakeFiles/addressbook.dir/adddialog.cpp.o.modmap	b41a3e1e8fd8cfc3
+527	531	1779089263450344073	CMakeFiles/addressbook.dir/newaddresstab.cpp.o.modmap	b41a3e1e8fd8cfc3
+527	531	1779089263450344073	CMakeFiles/addressbook.dir/tablemodel.cpp.o.modmap	b41a3e1e8fd8cfc3
+269	3883	1779089185225131957	CMakeFiles/addressbook.dir/tablemodel.cpp.o	93f26ebcbc915af9
+268	4302	1779089185223652580	CMakeFiles/addressbook.dir/main.cpp.o	a180af79a80499e0
+319	2754	1779089229522444885	CMakeFiles/addressbook.dir/addressbook_autogen/mocs_compilation.cpp.o	d13eee24ec081dbd
+870	6224	1779089230072342565	CMakeFiles/addressbook.dir/newaddresstab.cpp.o	73baca40c72ee9d
+531	5472	1779089263454549105	CMakeFiles/addressbook.dir/adddialog.cpp.o	d5cafae1a820a3d5
+5472	5740	1779089268395344297	addressbook	f6072697efedba6a

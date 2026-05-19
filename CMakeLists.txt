@@ -14,16 +14,14 @@ find_package(Qt6 COMPONENTS
         REQUIRED)
 
 add_executable(addressbook main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        addresswidget.cpp
-        addresswidget.h
         adddialog.cpp
         adddialog.h
         newaddresstab.cpp
         newaddresstab.h
         tablemodel.cpp
-        tablemodel.h)
+        tablemodel.h
+        addresswidget.cpp
+        addresswidget.h)
 target_link_libraries(addressbook
         Qt::Core
         Qt::Gui

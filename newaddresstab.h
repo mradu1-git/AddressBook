@@ -27,5 +27,3 @@ signals:
 };
 
 #endif //ADDRESSBOOK_NEWADDRESSTAB_H
-
-    New

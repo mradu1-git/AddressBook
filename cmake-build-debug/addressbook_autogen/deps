@@ -52,8 +52,6 @@ addressbook_autogen/timestamp: \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/CMakeFiles/4.2.2/CMakeSystem.cmake \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/addressbook_autogen/moc_predefs.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/main.cpp \
-	/home/mradu1/Projects/QT\ Widgets/addressbook/mainwindow.cpp \
-	/home/mradu1/Projects/QT\ Widgets/addressbook/mainwindow.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/newaddresstab.cpp \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/newaddresstab.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/tablemodel.cpp \
@@ -372,6 +370,8 @@ addressbook_autogen/timestamp: \
 	/usr/include/linux/types.h \
 	/usr/include/locale.h \
 	/usr/include/pthread.h \
+	/usr/include/qt6/QtCore/QAbstractTableModel \
+	/usr/include/qt6/QtCore/QList \
 	/usr/include/qt6/QtCore/q17memory.h \
 	/usr/include/qt6/QtCore/q20bit.h \
 	/usr/include/qt6/QtCore/q20functional.h \
@@ -381,6 +381,7 @@ addressbook_autogen/timestamp: \
 	/usr/include/qt6/QtCore/q20utility.h \
 	/usr/include/qt6/QtCore/q23type_traits.h \
 	/usr/include/qt6/QtCore/q23utility.h \
+	/usr/include/qt6/QtCore/qabstractitemmodel.h \
 	/usr/include/qt6/QtCore/qalgorithms.h \
 	/usr/include/qt6/QtCore/qalloc.h \
 	/usr/include/qt6/QtCore/qanystringview.h \
@@ -526,12 +527,9 @@ addressbook_autogen/timestamp: \
 	/usr/include/qt6/QtGui/qtransform.h \
 	/usr/include/qt6/QtGui/qwindowdefs.h \
 	/usr/include/qt6/QtWidgets/QDialog \
-	/usr/include/qt6/QtWidgets/QMainWindow \
 	/usr/include/qt6/QtWidgets/QWidget \
 	/usr/include/qt6/QtWidgets/qdialog.h \
-	/usr/include/qt6/QtWidgets/qmainwindow.h \
 	/usr/include/qt6/QtWidgets/qsizepolicy.h \
-	/usr/include/qt6/QtWidgets/qtabwidget.h \
 	/usr/include/qt6/QtWidgets/qtwidgets-config.h \
 	/usr/include/qt6/QtWidgets/qtwidgetsexports.h \
 	/usr/include/qt6/QtWidgets/qtwidgetsglobal.h \
