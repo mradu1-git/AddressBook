@@ -43,6 +43,32 @@ void MainWindow::createMenus()
     toolMenu->addAction(removeAct);
     connect(removeAct, &QAction::triggered, addressWidget, &AddressWidget::removeEntry);
     connect(addressWidget, &AddressWidget::selectionChanged, this, &MainWindow::updateActions);
+}
+
+void MainWindow::openFile()
+{
+    addressWidget->readFromFile();
+}
+
+void MainWindow::saveFile()
+{
+    addressWidget->writeToFile();
+}
+
+void MainWindow::updateActions(const QItemSelection &selection)
+{
+    QModelIndexList indexes = selection.indexes();
+
+    if (!indexes.isEmpty())
+    {
+        removeAct->setEnabled(true);
+        editAct->setEnabled(true);
+    } else
+    {
+        removeAct->setEnabled(false);
+        editAct->setEnabled(false);
+    }
+}
 
 
 
