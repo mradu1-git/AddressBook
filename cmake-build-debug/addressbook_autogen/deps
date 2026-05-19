@@ -47,11 +47,15 @@ addressbook_autogen/timestamp: \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/CMakeLists.txt \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/adddialog.cpp \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/adddialog.h \
+	/home/mradu1/Projects/QT\ Widgets/addressbook/addresswidget.cpp \
+	/home/mradu1/Projects/QT\ Widgets/addressbook/addresswidget.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/CMakeFiles/4.2.2/CMakeCCompiler.cmake \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/CMakeFiles/4.2.2/CMakeCXXCompiler.cmake \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/CMakeFiles/4.2.2/CMakeSystem.cmake \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/addressbook_autogen/moc_predefs.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/main.cpp \
+	/home/mradu1/Projects/QT\ Widgets/addressbook/mainwindow.cpp \
+	/home/mradu1/Projects/QT\ Widgets/addressbook/mainwindow.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/newaddresstab.cpp \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/newaddresstab.h \
 	/home/mradu1/Projects/QT\ Widgets/addressbook/tablemodel.cpp \
@@ -371,7 +375,9 @@ addressbook_autogen/timestamp: \
 	/usr/include/locale.h \
 	/usr/include/pthread.h \
 	/usr/include/qt6/QtCore/QAbstractTableModel \
+	/usr/include/qt6/QtCore/QItemSelection \
 	/usr/include/qt6/QtCore/QList \
+	/usr/include/qt6/QtCore/QStandardPaths \
 	/usr/include/qt6/QtCore/q17memory.h \
 	/usr/include/qt6/QtCore/q20bit.h \
 	/usr/include/qt6/QtCore/q20functional.h \
@@ -425,6 +431,7 @@ addressbook_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qhash.h \
 	/usr/include/qt6/QtCore/qhashfunctions.h \
 	/usr/include/qt6/QtCore/qiodevicebase.h \
+	/usr/include/qt6/QtCore/qitemselectionmodel.h \
 	/usr/include/qt6/QtCore/qiterable.h \
 	/usr/include/qt6/QtCore/qiterator.h \
 	/usr/include/qt6/QtCore/qlatin1stringview.h \
@@ -459,6 +466,7 @@ addressbook_autogen/timestamp: \
 	/usr/include/qt6/QtCore/qsharedpointer_impl.h \
 	/usr/include/qt6/QtCore/qsize.h \
 	/usr/include/qt6/QtCore/qspan.h \
+	/usr/include/qt6/QtCore/qstandardpaths.h \
 	/usr/include/qt6/QtCore/qstdlibdetection.h \
 	/usr/include/qt6/QtCore/qstring.h \
 	/usr/include/qt6/QtCore/qstringalgorithms.h \
@@ -527,9 +535,13 @@ addressbook_autogen/timestamp: \
 	/usr/include/qt6/QtGui/qtransform.h \
 	/usr/include/qt6/QtGui/qwindowdefs.h \
 	/usr/include/qt6/QtWidgets/QDialog \
+	/usr/include/qt6/QtWidgets/QMainWindow \
+	/usr/include/qt6/QtWidgets/QTabWidget \
 	/usr/include/qt6/QtWidgets/QWidget \
 	/usr/include/qt6/QtWidgets/qdialog.h \
+	/usr/include/qt6/QtWidgets/qmainwindow.h \
 	/usr/include/qt6/QtWidgets/qsizepolicy.h \
+	/usr/include/qt6/QtWidgets/qtabwidget.h \
 	/usr/include/qt6/QtWidgets/qtwidgets-config.h \
 	/usr/include/qt6/QtWidgets/qtwidgetsexports.h \
 	/usr/include/qt6/QtWidgets/qtwidgetsglobal.h \

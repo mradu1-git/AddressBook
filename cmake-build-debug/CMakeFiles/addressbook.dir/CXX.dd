@@ -7,3 +7,7 @@ build CMakeFiles/addressbook.dir/newaddresstab.cpp.o: dyndep
 
 build CMakeFiles/addressbook.dir/tablemodel.cpp.o: dyndep
 
+build CMakeFiles/addressbook.dir/addresswidget.cpp.o: dyndep
+
+build CMakeFiles/addressbook.dir/mainwindow.cpp.o: dyndep
+

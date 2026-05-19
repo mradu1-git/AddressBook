@@ -1,6 +1,7 @@
 /home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/addressbook_autogen/EWIEGA46WW/moc_addresswidget.cpp: /home/mradu1/Projects/QT\ Widgets/addressbook/addresswidget.h \
   /home/mradu1/Projects/QT\ Widgets/addressbook/cmake-build-debug/addressbook_autogen/moc_predefs.h \
   /home/mradu1/Projects/QT\ Widgets/addressbook/newaddresstab.h \
+  /home/mradu1/Projects/QT\ Widgets/addressbook/tablemodel.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \
@@ -315,7 +316,9 @@
   /usr/include/linux/types.h \
   /usr/include/locale.h \
   /usr/include/pthread.h \
+  /usr/include/qt6/QtCore/QAbstractTableModel \
   /usr/include/qt6/QtCore/QItemSelection \
+  /usr/include/qt6/QtCore/QList \
   /usr/include/qt6/QtCore/QStandardPaths \
   /usr/include/qt6/QtCore/q17memory.h \
   /usr/include/qt6/QtCore/q20bit.h \
